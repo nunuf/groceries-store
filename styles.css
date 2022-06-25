@@ -1,0 +1,13 @@
+body {
+    background-image: url(assets/images/grocery.jpg);
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.remove-btn {
+  cursor: pointer;
+}
